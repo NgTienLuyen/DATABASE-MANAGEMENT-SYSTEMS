@@ -7,5 +7,6 @@ Thành viên nhóm:
 4. Hoàng Thị Duyên       - 22IT1
 
 # Xác định thực thể - thuộc tính:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d948f396-fcaf-4835-b019-112c85615b6c)
+
 
