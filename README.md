@@ -5,3 +5,7 @@ Thành viên nhóm:
 2. Nguyễn Phương Thảo    - 22IT3
 3. Phùng Thị Linh        - 22IT3
 4. Hoàng Thị Duyên       - 22IT1
+
+# Xác định thực thể - thuộc tính:
+![Uploading image.png…]()
+
