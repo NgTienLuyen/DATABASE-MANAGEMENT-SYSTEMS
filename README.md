@@ -15,6 +15,7 @@ Thành viên nhóm:
 - Nhân viên order đem hóa đơn đó cho khách, nếu khách không có gì thắc mắc thì khách trả tiền cho nhân viên, nhân viên đem tiền và hóa đơn vào cho quầy thu ngân, nhân viên thu ngân đóng dấu đã thanh toán vào hóa đơn.
 # Xác định thực thể - thuộc tính:
 ![image](https://github.com/user-attachments/assets/c42b9a7f-00cf-4e22-bcbd-b574f3eaef81)
-
-
+# Mô hình thực thể liên kết:
+# Chuẩn hóa lược đồ quan hệ:
+![image](https://github.com/user-attachments/assets/70ee7d1c-bc6a-4b20-b20e-016867a0aedd)
 
