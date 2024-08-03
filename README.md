@@ -18,4 +18,3 @@
 # Mô hình thực thể liên kết:
 # Chuẩn hóa lược đồ quan hệ:
 ![image](https://github.com/user-attachments/assets/70ee7d1c-bc6a-4b20-b20e-016867a0aedd)
-
